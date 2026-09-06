@@ -1,4 +1,3 @@
-
 102.36.116.22 - - [20/Sep/2023:16:36:24 -0300] "GET /wordfence-waf.php HTTP/1.1" 404 431 "-" "Fuzz Faster U Fool v2.0.0-dev"
 102.36.116.22 - - [20/Sep/2023:16:36:24 -0300] "GET /wp-admin/bookmarklet.php HTTP/1.1" 404 431 "-" "Fuzz Faster U Fool v2.0.0-dev"
 102.36.116.22 - - [20/Sep/2023:16:36:24 -0300] "GET /wp-admin/css/colors-fresh-rtl.css HTTP/1.1" 404 431 "-" "Fuzz Faster U Fool v2.0.0-dev"

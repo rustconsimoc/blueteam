@@ -1,4 +1,3 @@
-
 Sep 20 16:00:18 UBUNTU-WP47 sshd[11150]: Invalid user administrator  from 102.36.116.22 port 60748
 Sep 20 16:00:18 UBUNTU-WP47 sshd[11150]: Received disconnect from 102.36.116.22 port 60748:11: Bye Bye [preauth]
 Sep 20 16:00:18 UBUNTU-WP47 sshd[11150]: Disconnected from invalid user administrator  102.36.116.22 port 60748 [preauth]

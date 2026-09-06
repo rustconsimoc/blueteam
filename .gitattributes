@@ -1,0 +1,11 @@
+# Evidencias binarias: nunca normalizar
+*             -text
+*.pcap        binary
+*.pcapng      binary
+*.evtx        binary
+
+# Logs textuais: sempre LF, inclusive em checkout no Windows.
+# Sem isto o core.autocrlf=true (default do Git for Windows) reescreve os
+# logs com CRLF no checkout e a evidencia deixa de bater byte a byte.
+*.log         text eol=lf
+*.md          text eol=lf
